@@ -1,0 +1,69 @@
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img id="header-img" src="https://live.staticflickr.com/65535/49153833106_816427df2b.jpg" alt="roaring roses banner" />
+    </div>
+    
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#about">About Author</a></li>
+        <li><a class="nav-link" href="#stories">Stories</a></li>
+        <li><a class="nav-link" href="#ebook">Ebooks</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+    <section id="hero">
+      <h2> Sign up for Free Ebook</h2>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">  <input name="email" id="email" type="email" placeholder="Enter your email address" required />
+          <input id="submit" type="submit" value="Get Started" class="btn" />
+        </form>
+  </section>
+</div>
+
+ <section id="grid">
+      <section id="about">
+            
+              <p>Creating new works daily.  I am an advernture author. <br>I enjoy writing it is my passion. Sign up for my newsletter to stay updated. <br>I will be creating new works every month and publishing them on Amazon for you to enjoy.</p>
+              <br> Writer<br>
+              <p> Enjoy the Trilogy of the Roaring Roses series and other works. </p>
+         </section>
+   <section id="hero">
+          
+      <section id="stories">
+        
+         <h2>Creative works.</h2>
+              <p> New story lines. <br>
+             
+              <p> fantasy story telling. </p>
+       
+          </section>   
+     <section id="ebook">
+         <h2> Zombie Horror Fantasy Fiction</h2>
+          The Johnsons the trilogy of the family fighting apocalyptic Zombies. 
+           Purchase Pdf here!
+          <button class="btn">Select</button>
+        </section>
+
+        
+        
+        
+         <section id="how-it-works">
+        <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/ehwKHgQIQR4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+        
+        <footer>
+      <ul>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <span>Copyright 2021</span>
+    </footer>
+      
+         </section>
+
+            
+             
+            
+     
