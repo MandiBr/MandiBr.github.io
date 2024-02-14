@@ -6,42 +6,39 @@
     
     <nav id="nav-bar">
       <ul>
-        <li><a class="nav-link" href="#about">About Author</a></li>
-        <li><a class="nav-link" href="#stories">Stories</a></li>
-        <li><a class="nav-link" href="#ebook">Ebooks</a></li>
+        <li><a class="nav-link" href="#about">About</a></li>
+        <li><a class="nav-link" href="#stories">Projects</a></li>
+        <li><a class="nav-link" href="#ebook">Contact me</a></li>
       </ul>
     </nav>
   </header>
   
     <section id="hero">
-      <h2> Sign up for Free Ebook</h2>
-        <form id="form" action="https://www.freecodecamp.com/email-submit">  <input name="email" id="email" type="email" placeholder="Enter your email address" required />
-          <input id="submit" type="submit" value="Get Started" class="btn" />
-        </form>
+      <h2> Web Developer</h2>
+        
   </section>
 </div>
 
  <section id="grid">
       <section id="about">
             
-              <p>Creating new works daily.  I am an advernture author. <br>I enjoy writing it is my passion. Sign up for my newsletter to stay updated. <br>I will be creating new works every month and publishing them on Amazon for you to enjoy.</p>
-              <br> Writer<br>
-              <p> Enjoy the Trilogy of the Roaring Roses series and other works. </p>
+              <p> Creating and devloping new projects daily.<br> Learning to expand on my development skills. <br> I will be displaying examples of current projects and contributions I will make. </p>
+              <br>  Currently learning programming basics to add to my front end web development skills. <br>
+              <p> Current Projects</p>
          </section>
    <section id="hero">
           
       <section id="stories">
         
-         <h2>Creative works.</h2>
-              <p> New story lines. <br>
+         <h2>Code</h2>
+              <p>  <br>
              
-              <p> fantasy story telling. </p>
+              <p> </p>
        
           </section>   
      <section id="ebook">
-         <h2> Zombie Horror Fantasy Fiction</h2>
-          The Johnsons the trilogy of the family fighting apocalyptic Zombies. 
-           Purchase Pdf here!
+         <h2> Developer </h2>
+          My Behance : Link will go here soon ! 
           <button class="btn">Select</button>
         </section>
 
@@ -58,7 +55,7 @@
         <li><a href="#">Terms</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-      <span>Copyright 2021</span>
+      <span>Copyright 2024</span>
     </footer>
       
          </section>
